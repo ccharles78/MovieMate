@@ -1,0 +1,138 @@
+*body {
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 34px;
+   color: white; 
+   background-image: no-repeat;
+}
+h1{ 
+font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif; 
+font-size: 30px;
+line-height: 49px;
+text-align: center;
+}
+#movie-button{
+  margin-left: 42%;
+}
+
+#search-input{
+  margin-left: 40%;
+}
+
+#masthead {
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  overflow: auto;
+  color: white;
+  background:black;
+  border-bottom: 1px solid white;
+}
+#brandlogo {
+  width: 55px;
+  height: 45px;
+
+}
+
+
+#logo {
+  float: left;
+  width: 250px;
+  height: 60px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 70px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  background:black;
+}
+
+nav {
+  float: right;
+  margin-top: 25px;
+  padding-right: 10px;
+}
+nav a:first-child {
+  border-left: 0 none;
+}
+
+/* general */
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
+
+.d-block {
+  width: 450px;
+  height: 300px;
+}
+
+#carouselExampleIndicators {
+  width:470px;
+}
+.jumbotron{
+  height: 550px;
+  color:antiquewhite;
+}
+
+
+.information{
+  text-align: center;
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+  font-size: 28px;
+  color: black;
+  }
+ 
+#title-div{
+  text-align: center;
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+   font-size: 18px;
+}
+#plot-div{
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+   font-size: 18px;
+}
+#details-list{
+  text-align: center;
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+   font-size: 18px;
+}
+#poster-image{
+  text-align: center;
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+  font-size: 18px;
+}
+#trailer-video{
+  text-align: center;
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+   font-size: 18px;
+}
+
+#disqus_thread{
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+   font-size: 18px;
+   color: black; 
+}
+
+#comments-box{
+  font-family: 'Cinzel',Georgia, Times, "Times New Roman", serif;
+   font-size: 18px;
+   color: black;
+}
+
+table, th, td {
+  font-size: 18px;
+  background-color: antiquewhite;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  padding: 15px;
+  border: 1px solid black;
+}
